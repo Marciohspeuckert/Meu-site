@@ -1,2 +1,5 @@
 @charset "utf-8";
-body{background-color: azure;}
+body{background-color: azure;
+font-size: 20px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
