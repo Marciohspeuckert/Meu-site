@@ -1,2 +1,3 @@
 # Meu site
- Este será meu primeiro site 
+ Este será meu primeiro site feito na mão, código fonte kkk...
+ parece muito infantil mas pra min é tudo muito novo!!
