@@ -2,4 +2,14 @@
 body{background-color: #9ed0d1;
 font-size: 20px;
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+  hr{background-color: rgb(255, 180, 4) ;    
+   width: 37%;
+   height: 3px;%;}
+   h1{text-align: center;}
+   h2{text-align: center;}
+    p{text-align: justify;
+  text-indent: 20px;}
+a {color: rgb(255, 180, 4);
+text-decoration: none;
+     }  
 
