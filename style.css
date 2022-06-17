@@ -1,15 +1,21 @@
 @charset "utf-8";
 body{background-color: #9ed0d1;
 font-size: 20px;
-font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
-  hr{background-color: rgb(255, 180, 4) ;    
+font-family: 'Inconsolata', monospace;}
+  hr{background-color: #9C3B00 ;    
    width: 37%;
-   height: 3px;%;}
+   height: 3px;}
    h1{text-align: center;}
-   h2{text-align: center;}
-    p{text-align: justify;
-  text-indent: 20px;}
-a {color: rgb(255, 180, 4);
-text-decoration: none;
-     }  
+   h2{text-align: center;
+      }
+   p#principal {font-size: 28px;
+   text-align: center;
+   padding-left: 120px;
+   padding-right: 120px;}
+    p{font-size: 20px;}
+a {color: #9C3B00;
+   text-decoration: none;}
+   img.centro{margin-left: 490px;
+       margin-right: auto;}
+
 
