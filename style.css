@@ -1,8 +1,9 @@
 @charset "utf-8";
-body{background-color: #9ed0d1;
+body{background-color: #23242f ;
+color: #ffff;
 font-size: 20px;
 font-family: 'Inconsolata', monospace;}
-  hr{background-color: #9C3B00 ;    
+  hr{background-color: #01e59b ;    
    width: 37%;
    height: 3px;}
    h1{text-align: center;}
@@ -13,7 +14,7 @@ font-family: 'Inconsolata', monospace;}
    padding-left: 120px;
    padding-right: 120px;}
     p{font-size: 20px;}
-a {color: #9C3B00;
+a {color: #01e59b;
    text-decoration: none;}
    
 
